@@ -1,0 +1,1 @@
+绿地守卫 2.0 安卓工程源码\n\n手机试玩：下载 app/src/main/assets/index.html 后用浏览器打开（部分手机浏览器不允许本地脚本运行，可使用在线 HTML 编辑/预览工具）。\n生成 APK：需 Android Studio 或支持 Gradle Android 项目的云端构建环境。Android Studio 打开本文件夹，等待 Gradle 同步，然后 Build > Build Bundle(s) / APK(s) > Build APK(s)。输出通常在 app/build/outputs/apk/debug/app-debug.apk。首次构建需联网下载 Android Gradle 插件和 SDK。\n本 ZIP 是源码工程，不是已编译 APK。游戏使用代码绘制的原创简易图形，没有使用原作素材。
